@@ -6,7 +6,7 @@ import AsyncStorage from '@react-native-async-storage/async-storage';
 import { useFocusEffect } from '@react-navigation/native';
  
 const firebaseConfig = {  
-  apiKey: "AIzaSyCbv2U9w7nqTjPaiQMZrbpUcOf-E98INQ0", 
+  apiKey: "", 
   authDomain: "hack-6d6bf.firebaseapp.com", 
   projectId: "hack-6d6bf", 
   storageBucket: "hack-6d6bf.appspot.com", 
